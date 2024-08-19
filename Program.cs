@@ -91,6 +91,11 @@
 
             Console.WriteLine("Topper student is :");
             maxx.ShowStudent();
+            int u = 123;
+            unsafe
+            {
+                int* ptr = &u;//pointer ptr
+            }
         }
     }
 }

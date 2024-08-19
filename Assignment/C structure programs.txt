@@ -1,0 +1,31 @@
+1) Write a program to perform following task.
+	Create a structure student with some member variables 
+	like roll, name, total_marks,dept with proper data types.
+	
+	Accept student information and store it in 2 variables of student.
+	Display all students information in proper format
+
+2) Create 2 variables of structure student.
+   Show topper from those two students
+
+3) write a structure Employee with some member variables 
+    like emp_id, emp_name, emp_dept and salary.
+  Accept 5 employees information and store it in appropriate variables.
+  perform following operations on it
+	I)   show all employees information
+	II)  show all employees from HR dept
+	III) show total salary of all employees
+	IV)  show maximum salary employee from all departments.
+	V)   show maximum salary employee from IT department.
+	VI)  show maximum salary employee from each department;
+4) WAP to create class "car" with some member variables like "make," "model", "color", "price" and "year" with appropriate data type. accept 5 cars information and display it with proper format. Accept price range, color, and manufacturing year range from user and show all cars who fit in given search criteria.
+
+5)WAP to create structure name as Laptop with some member variables like Manufacturer,Model,RAM,Price.
+create structure Laptop, accept 2 laptop information and show all laptops which have RAM 4GB
+6) WAP to Create union result(per,grade). 
+create structure    student(roll,name,stream,result). 
+Accept 5 students data and store it into dynamic array of student.
+show all students result in proper format
+  NOTE: if steam is MCA then store percentage in result.
+        if stream is Egg then store grad(A,B,C,D) in result.
+
